@@ -19,3 +19,5 @@
 * 20% - P.G.c
 * 35% - Parcial
 
+### Docente : Manuel Alexander Cadena 
+### 3203675818
